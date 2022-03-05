@@ -1,0 +1,1 @@
+This is a simple landing page, where I used media queries and some javascript, to make responsive design for different gadgets.
